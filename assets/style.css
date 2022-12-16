@@ -1,0 +1,31 @@
+.bg-background {
+    background-color: #211424;
+}
+
+.color-secondary {
+    background-color:#BBBB62;
+}
+
+.color-primary {
+    background-color:#6F417D;
+}
+
+.color-text {
+    color:#BBBB62;
+}
+
+.color-accent {
+    color: #E1E1CA;
+}
+
+.font-large {
+    font-size: 60px;
+}
+
+.btn-purple {
+    background-color: #6F417D;
+}
+
+.hidden {
+    display:none !important;
+}
